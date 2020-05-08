@@ -1,6 +1,6 @@
 {
   "name": "bucketify",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "Library divides lists into evenly spaced buckets",
   "main": "index.min.js",
   "scripts": {
