@@ -2,7 +2,7 @@
   "name": "bucketify",
   "version": "1.0.0",
   "description": "Library divides lists into evenly spaced buckets",
-  "main": "index.js",
+  "main": "index.min.js",
   "scripts": {
     "test": "mocha"
   },
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/vinaypillai/Bucketify/issues"
   },
-  "homepage": "https://github.com/vinaypillai/Bucketify#readme"
+  "homepage": "https://github.com/vinaypillai/Bucketify#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
 }
