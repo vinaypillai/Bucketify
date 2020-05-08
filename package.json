@@ -1,0 +1,19 @@
+{
+  "name": "bucketify",
+  "version": "1.0.0",
+  "description": "Library divides lists into evenly spaced buckets",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaypillai/Bucketify.git"
+  },
+  "author": "Vinay Pillai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinaypillai/Bucketify/issues"
+  },
+  "homepage": "https://github.com/vinaypillai/Bucketify#readme"
+}
